@@ -1,10 +1,13 @@
 # XcodeProjFileParser
 Parse xcodeproj file to get duplicated file names in your targets, etc
 
+This is a beta version since it needs to be cleaned up and to be fixed for some other features.
+Right now it can only search duplicated file names in each target.
 
-Xcode Project Tool INSTRUCTION:
 
-STEPS:
+##Xcode Project Tool INSTRUCTION:
+
+###STEPS:
 
 Copy your “[Project].xcodeproj” into this folder(XcodeProjFileParser).
 
